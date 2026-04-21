@@ -1,0 +1,5 @@
+/Users/sashaz/github/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashaz/github/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.AssemblyInfoInputs.cache
+/Users/sashaz/github/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.AssemblyInfo.cs
+/Users/sashaz/github/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.csproj.CoreCompileInputs.cache
+/Users/sashaz/github/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.sourcelink.json
