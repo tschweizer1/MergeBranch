@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MergeBranch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4de23b76b80ce4172ca1a68ff347101caf3a56f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa1611e8821223c8aed1ddedaad94ef03241e39")]
 [assembly: System.Reflection.AssemblyProductAttribute("MergeBranch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MergeBranch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
