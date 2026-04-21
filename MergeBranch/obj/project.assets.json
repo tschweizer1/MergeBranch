@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/sashaz/.nuget/packages/": {}
+    "/Users/greysonchavez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sashaz/github/MergeBranch/MergeBranch/MergeBranch.csproj",
+      "projectUniqueName": "/Users/greysonchavez/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
       "projectName": "MergeBranch",
-      "projectPath": "/Users/sashaz/github/MergeBranch/MergeBranch/MergeBranch.csproj",
-      "packagesPath": "/Users/sashaz/.nuget/packages/",
-      "outputPath": "/Users/sashaz/github/MergeBranch/MergeBranch/obj/",
+      "projectPath": "/Users/greysonchavez/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
+      "packagesPath": "/Users/greysonchavez/.nuget/packages/",
+      "outputPath": "/Users/greysonchavez/RiderProjects/MergeBranch/MergeBranch/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sashaz/.nuget/NuGet/NuGet.Config"
+        "/Users/greysonchavez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/sashaz/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/greysonchavez/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
