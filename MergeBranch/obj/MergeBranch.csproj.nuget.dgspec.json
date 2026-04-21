@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smash\\OneDrive\\Desktop\\CPSC_Courses\\GAME230\\MergeBranch\\MergeBranch\\MergeBranch.csproj": {}
+    "C:\\Users\\chath\\RiderProjects\\MergeBranch\\MergeBranch\\MergeBranch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smash\\OneDrive\\Desktop\\CPSC_Courses\\GAME230\\MergeBranch\\MergeBranch\\MergeBranch.csproj": {
+    "C:\\Users\\chath\\RiderProjects\\MergeBranch\\MergeBranch\\MergeBranch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smash\\OneDrive\\Desktop\\CPSC_Courses\\GAME230\\MergeBranch\\MergeBranch\\MergeBranch.csproj",
+        "projectUniqueName": "C:\\Users\\chath\\RiderProjects\\MergeBranch\\MergeBranch\\MergeBranch.csproj",
         "projectName": "MergeBranch",
-        "projectPath": "C:\\Users\\smash\\OneDrive\\Desktop\\CPSC_Courses\\GAME230\\MergeBranch\\MergeBranch\\MergeBranch.csproj",
-        "packagesPath": "C:\\Users\\smash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smash\\OneDrive\\Desktop\\CPSC_Courses\\GAME230\\MergeBranch\\MergeBranch\\obj\\",
+        "projectPath": "C:\\Users\\chath\\RiderProjects\\MergeBranch\\MergeBranch\\MergeBranch.csproj",
+        "packagesPath": "C:\\Users\\chath\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chath\\RiderProjects\\MergeBranch\\MergeBranch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\smash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chath\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
